@@ -1,3 +1,9 @@
+## Terraform Documentation
+https://www.terraform.io/docs/providers/aws/index.html
+https://www.terraform.io/docs/providers/aws/r/iam_user.html
+https://www.terraform.io/docs/providers/aws/r/iam_group.html
+https://www.terraform.io/docs/providers/aws/r/iam_role.html
+
 ## IAM
 
 Types of policies
@@ -10,4 +16,6 @@ Types of policies
 <BLOCKTYPE> <BLOCK NAME> <BLOCK NAME> {
     Block body
 }
+
+
 
