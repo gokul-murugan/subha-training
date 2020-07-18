@@ -1,3 +1,4 @@
+
 resource "aws_iam_user" "labuser" {
   name = var.user_name
 }
